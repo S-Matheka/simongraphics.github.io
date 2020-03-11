@@ -606,7 +606,7 @@ a#logo {
   padding: 20px;
   background-color: #790d4d;
   width: 100%;
-  height: 60px;
+  height: 55px;
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
   -webkit-transition: all 0.4s ease;
@@ -643,94 +643,6 @@ a#logo {
 /*==============================================
 08. CONTACT BLOCK CSS
 ================================================*/
-::-webkit-input-placeholder {
-  color:#fff !important;
-  opacity:1;
-}
-::-moz-placeholder {
-  color:#fff !important;
-  opacity:1;
-}
-:-ms-input-placeholder {
-  color:#fff !important;
-  opacity:1;
-}
-:-moz-placeholder {
-  color:#fff !important;
-  opacity:1;
-}
-.input-field {
-  margin-bottom:15px;
-}
-.form-control {
-  height: 50px;
-  color:#fff;
-  border: none;
-  background:rgba(250,250,250,0.05);
-  border: 1px solid rgba(250,250,250,0.5);
-  border-radius: 10px;
-  padding:4px 22px;
-  font-size:14px;
-  margin-bottom: 30px;
-}
-.form-control:focus {
-  box-shadow:none;
-  outline:none;
-  background:rgba(0,0,0,0.05);
-  border: 1px solid rgba(250,250,250,1);
-  color:#fff;
-}
-.index .form-control.form-control-dark {
-  background: rgba(250,250,250, 0.75);
-  color: #fff;
-}
-.index .form-control.form-control-dark:focus {
-  background: rgba(54, 40, 158, 0.85);
-  color: #fff;
-}
-.index .form-control.form-control-dark::-webkit-input-placeholder {
-  color: #fff !important;
-}
-.index .form-control.form-control-dark::-moz-placeholder {
-  color:#fff !important;
-}
-.index .form-control.form-control-dark:-ms-input-placeholder {
-  color:#fff !important;
-}
-.index .form-control.form-control-dark:-moz-placeholder {
-  color:#fff !important;
-}
-.form-control.form-control-dark:focus {
-  background: rgba(0, 0, 0, 0.2);
-}
-.form-control.form-control-dark {
-  background: rgba(0, 0, 0, 0.1);
-  color: #222;
-  border: none;
-}
-.form-control.form-control-dark::-webkit-input-placeholder {
-  color:#222 !important;
-  opacity:0.7;
-}
-.form-control.form-control-dark::-moz-placeholder {
-  color:#222 !important;
-  opacity:0.7;
-}
-.form-control.form-control-dark:-ms-input-placeholder {
-  color:#222 !important;
-  opacity:0.7;
-}
-.form-control.form-control-dark:-moz-placeholder {
-  color:#222 !important;
-  opacity:0.7;
-}
-textarea.form-control {
-  height:123px;
-  padding-top:15px;
-}
-.contact-section .btn {
-  width:100%;
-}
 .contact-box {
   text-align:left;
 }
